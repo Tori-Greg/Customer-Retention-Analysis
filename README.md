@@ -14,15 +14,15 @@ No relationships were required to be established since the data was in the form 
 ## Email and Visuals
 To aid comprehension, a brief note on the findings has been included in each dashboard. The dashboards consist of three visuals that analyze various metrics on customer retention data.
 
-### 1
+### 1.
 ___
 ![](Dashboard_1.JPG)
 
-### 2
+### 2.
 ___
 ![](Dashboard_2.JPG)
 
-### 3
+### 3.
 ___
 ![](Dashboard_3.JPG)
 
@@ -43,5 +43,6 @@ By focusing on these initiatives, we believe that we can improve our customer re
 **Kind regards,**
 
 **Meggison Toritse,**
+
 **Senior Data Analyst.**
 
