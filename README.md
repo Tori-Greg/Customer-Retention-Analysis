@@ -12,7 +12,7 @@ Data was provided by the PWC team in which it was loaded into Power BI
 No relationships were required to be established since the data was in the form of a single-table Excel file.
 
 ## Email and Visuals
-To aid comprehension, a brief note on the findings has been included in each dashboard. The dashboards consist of three visuals that analyze various metrics on customer retention data. For data interaction click [here](https://app.powerbi.com/links/ZfMyh-4TWd?ctid=f2c35211-7dad-42d6-b895-25d82fc1f0a2&pbi_source=linkShare&bookmarkGuid=4f956b3e-d80f-49a2-87ff-ff226c86a643)
+To aid comprehension, a brief note on the findings has been included in each dashboard. The dashboards consist of three visuals that analyze various metrics on customer retention data. For dashboard interaction click [here](https://app.powerbi.com/links/ZfMyh-4TWd?ctid=f2c35211-7dad-42d6-b895-25d82fc1f0a2&pbi_source=linkShare&bookmarkGuid=4f956b3e-d80f-49a2-87ff-ff226c86a643)
 
 ### 1.
 ___
